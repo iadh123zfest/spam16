@@ -1118,4 +1118,4 @@ gg.send({embed : new Discord.RichEmbed()
  }
 })
 
-client.login(process.env.BOT_KEY);
+client.login(NTE5ODAxNTA2NDI2Mzg4NDg0.DukmtA.ZtQG52bKvJzZPxEikPNXbwk8qUE);
